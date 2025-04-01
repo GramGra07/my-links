@@ -7,6 +7,12 @@ https://xyproblem.info/
 
 https://gramgra07.github.io/gg-web/
 
+## Learning GIT
+
+https://github.com/GramGra07/BranchTesting/tree/main
+
+https://www.atlassian.com/git/glossary#commands
+
 ## FTC Resources
 
 https://gramgra07.github.io/WHS-FTC-Code_Training_Module/
