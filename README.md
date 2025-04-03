@@ -17,6 +17,10 @@ https://www.atlassian.com/git/glossary#commands
 
 https://gramgra07.github.io/WHS-FTC-Code_Training_Module/
 
+### SLOTH
+
+https://github.com/Dairy-Foundation/Sloth/
+
 ### Custom lib 
 
 https://gramgra07.github.io/GentrifiedAppsUtil/
