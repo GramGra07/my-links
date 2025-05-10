@@ -82,3 +82,8 @@ https://docs.revrobotics.com/rev-hardware-client/getting-started/installation-in
 https://www.firstinspires.org/resource-library/ftc/game-and-season-info
 
 https://gist.github.com/jagrosh/5b1761213e33fc5b54ec7f6379034a22
+
+
+## Random stuff 
+
+`firebase deploy --only hosting`
